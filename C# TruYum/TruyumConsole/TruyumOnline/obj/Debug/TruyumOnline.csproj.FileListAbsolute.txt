@@ -1,0 +1,6 @@
+C:\Users\Saddhu\source\repos\TruYumConsole\TruyumOnline\bin\Debug\TruyumOnline.dll
+C:\Users\Saddhu\source\repos\TruYumConsole\TruyumOnline\bin\Debug\TruyumOnline.pdb
+C:\Users\Saddhu\source\repos\TruYumConsole\TruyumOnline\obj\Debug\TruyumOnline.csprojAssemblyReference.cache
+C:\Users\Saddhu\source\repos\TruYumConsole\TruyumOnline\obj\Debug\TruyumOnline.csproj.CoreCompileInputs.cache
+C:\Users\Saddhu\source\repos\TruYumConsole\TruyumOnline\obj\Debug\TruyumOnline.dll
+C:\Users\Saddhu\source\repos\TruYumConsole\TruyumOnline\obj\Debug\TruyumOnline.pdb

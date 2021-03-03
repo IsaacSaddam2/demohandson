@@ -1,0 +1,11 @@
+C:\Users\Saddhu\source\repos\TruYumConsole\Com.Cognizant.Truyum.Dao\bin\Debug\Com.Cognizant.Truyum.Dao.dll
+C:\Users\Saddhu\source\repos\TruYumConsole\Com.Cognizant.Truyum.Dao\bin\Debug\Com.Cognizant.Truyum.Dao.pdb
+C:\Users\Saddhu\source\repos\TruYumConsole\Com.Cognizant.Truyum.Dao\bin\Debug\Com.Cognizant.Truyum.Model.dll
+C:\Users\Saddhu\source\repos\TruYumConsole\Com.Cognizant.Truyum.Dao\bin\Debug\Com.Cognizant.Truyum.Utility.dll
+C:\Users\Saddhu\source\repos\TruYumConsole\Com.Cognizant.Truyum.Dao\bin\Debug\Com.Cognizant.Truyum.Model.pdb
+C:\Users\Saddhu\source\repos\TruYumConsole\Com.Cognizant.Truyum.Dao\bin\Debug\Com.Cognizant.Truyum.Utility.pdb
+C:\Users\Saddhu\source\repos\TruYumConsole\Com.Cognizant.Truyum.Dao\obj\Debug\Com.Cognizant.Truyum.Dao.csprojAssemblyReference.cache
+C:\Users\Saddhu\source\repos\TruYumConsole\Com.Cognizant.Truyum.Dao\obj\Debug\Com.Cognizant.Truyum.Dao.csproj.CoreCompileInputs.cache
+C:\Users\Saddhu\source\repos\TruYumConsole\Com.Cognizant.Truyum.Dao\obj\Debug\Com.Cognizant.Truyum.Dao.csproj.CopyComplete
+C:\Users\Saddhu\source\repos\TruYumConsole\Com.Cognizant.Truyum.Dao\obj\Debug\Com.Cognizant.Truyum.Dao.dll
+C:\Users\Saddhu\source\repos\TruYumConsole\Com.Cognizant.Truyum.Dao\obj\Debug\Com.Cognizant.Truyum.Dao.pdb
